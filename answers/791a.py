@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 a,b = input().split()
 
 count = 0

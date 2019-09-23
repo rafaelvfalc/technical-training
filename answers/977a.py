@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 n,k = input().split()
 
 count = 0

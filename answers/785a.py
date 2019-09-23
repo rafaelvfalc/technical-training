@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 n = int(input())
 
 faces = 0

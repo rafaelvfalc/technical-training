@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 n = int(input())
 
 feeling = "I hate"
