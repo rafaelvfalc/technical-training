@@ -1,4 +1,1 @@
-# Codeforces
-Codeforce answers
-
-Made by: Rafael Falcão (@rafaelvfalc)
+# Technical Training
